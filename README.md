@@ -1,2 +1,1 @@
-# hello-world
-Just a stary
+<h1>Hey github</h1>
